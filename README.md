@@ -5,5 +5,4 @@ Weight files for the e4e+GReg: [https://1drv.ms/f/c/BF9935F69E5A6A6A/IgA26Yl91Lz
 
 The codes for LDM is consistent with the paper "High-Resolution Image Synthesis with Latent Diffusion Models": https://github.com/CompVis/latent-diffusion
 
-The codes for e4e is consistent with the paper "Designing an Encoder for StyleGAN Image Manipulation": https://github.com/omertov/
-encoder4editing
+The codes for e4e is consistent with the paper "Designing an Encoder for StyleGAN Image Manipulation": https://github.com/omertov/encoder4editing
